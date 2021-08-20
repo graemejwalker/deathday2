@@ -1,6 +1,6 @@
 /* Full-screen background cover image, with fallback background colour */
 .cover-image {
-	background: #7F7F7F url(https://i.picsum.photos/id/1032/1024/768.jpg?grayscale&hmac=wMWkZWfm2TZ1lpjLgHbGhUK7VCgPxcTbHuS2VIdXRFM) center/cover no-repeat;
+	background: #7F7F7F url(images/Hydra_03.jpg) center/cover no-repeat;
 }
 
 /* Ensures correct sizing of Bootstrap Icons (BI) - Used for the 'scroll to anchor' chevron */
