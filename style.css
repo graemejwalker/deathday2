@@ -9,7 +9,7 @@
 	height: 1em;
 }
 
-/* Enables smooth scrolling to the #main anchor when the 'scroll to anchor' chevron is clicked */
+/* Enables smooth scrolling to the #main anchor when the 'scroll to anchor' chevron is clicked. For additional scroll links add a comma after #main with a #+name of id */
 #main {
 	scroll-behavior: smooth;
 }
